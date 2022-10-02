@@ -14,7 +14,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "mocha"
+    "test": "source scripts/test_script.sh"
   },
   "keywords": [],
   "author": "",
